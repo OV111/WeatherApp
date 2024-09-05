@@ -12,3 +12,6 @@
    1) Then cd ~/Projects;
    2) git clone 'https://github.com/OV111/WeatherApp.git'
    3) cd Your Repository-name
+
+
+![Screenshot 2024-09-05 165456](https://github.com/user-attachments/assets/66596e49-cb14-47bc-858b-0a3d305e5ca2)
